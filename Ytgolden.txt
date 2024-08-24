@@ -1,6 +1,6 @@
 Version 11.0. Changelog:
 
->Base Update 19.09.37
+>Base Update 19.20.34
 >Added All new features
 >Fixed Problem of hanging in some clips minutes after playing the video
 >Bugs Fixed
