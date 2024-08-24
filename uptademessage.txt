@@ -1,0 +1,36 @@
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "v12.0",
+    "com.gold.android.youtube": "https://www.abu2rab.com/2024/03/yt-gold-ali.html",
+    "update_message": "
+<p>Update VØªØ­Ø¯ÙŠØ« 12.0</p>
+<li>Ø§Ù„ØªØ­Ø¯ÙŠØ« Ù„Ù†Ø³Ø®Ø© Ø§Ù„Ù…Ø§Ø±ÙƒØª 10.13.1.2</li>
+<li>Ø§Ù…ÙƒØ§Ù†ÙŠØ© ØªØµÙˆÙŠØ± Ø§Ù„Ø´Ø§Ø´Ø© ÙÙŠ Ø§Ù„Ø³ØªÙˆØ±ÙŠ ÙÙŠ Ø­Ø§Ù„Ø© Ø§Ù„Ù…Ù†Ø¹</li>
+<li>Ø§Ù…ÙƒØ§Ù†ÙŠØ© Ø­ÙØ¸ Ø§Ù„Ø³ØªÙˆØ±ÙŠ ÙÙŠ Ø­Ø§Ù„Ø© Ø§Ù„Ù…Ù†Ø¹</li>
+<li>Ø§Ù…ÙƒØ§Ù†ÙŠØ© Ù†Ø³Ø® Ø±Ø§Ø¨Ø· Ø§Ù„Ø³ØªÙˆØ±ÙŠ ÙÙŠ Ø­Ø§Ù„Ø© Ø§Ù„Ù…Ù†Ø¹</li>
+<li>ØªØ£Ø«ÙŠØ±Ø§Øª Ø§Ù„Ø±Ø³Ø§Ø¦Ù„</li>
+<li>Ø§Ù„ØªØ³Ù…ÙŠØ§Øª Ø£Ø¹Ù„Ù‰ Ø§Ù„ÙˆØ³Ø§Ø¦Ø·</li>
+<li>Ø¥Ø¬Ø±Ø§Ø¡Ø§Øª Ø³Ø±ÙŠØ¹Ø© Ù„Ø£Ø±Ù‚Ø§Ù… Ø§Ù„Ù‡ÙˆØ§ØªÙ</li>
+<li>Ø¨Ø­Ø« Ø§Ù„Ù‡Ø§Ø´ØªØ§Ø¬</li>
+<li>Ø§Ù‚ØªØ¨Ø§Ø³Ø§Øª Ù‚Ø§Ø¨Ù„Ø© Ù„Ù„Ø·ÙŠ</li>
+<li>Ø§Ø¶Ø§ÙØ© Ù…Ù„ÙÙŠ Ø§Ù„Ø´Ø®ØµÙŠ</li>
+<li>Ø§Ø¶Ø§ÙØ© Ø£Ø¹ÙŠØ§Ø¯ Ø§Ù„Ù…ÙŠÙ„Ø§Ø¯</li>
+<li>Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ø®Ø±Ù‰</li>
+
+<li>Base Update: 10.13.1.2</li>
+<li>Screen capture enabled for stories if it is stopped</li>
+<li>Story saving enabled if it is stopped</li>
+<li>Copy story link enabled if it is stopped</li>
+<li>Message Effects</li>
+<li>Captions Above Media</li>
+<li>Quick Actions for Phone Numbers</li>
+<li>Hashtag Search</li>
+<li>Collapsible Quotes</li>
+<li>Added My Profile</li>
+<li>Added Birthdays</li>
+<li>Other fixes</li>
+"
+    }
+}
