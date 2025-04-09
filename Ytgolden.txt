@@ -1,6 +1,6 @@
-Version 14. Changelog:
+Version 16. Changelog:
 
-> Updated the base to version 19.30.39
+> Updated the base to version 20.06.42
 > New design for the Gold Settings and also for the video page
 > Fixed Problem of not being able to play videos
 > Fixed Problem downloading videos
