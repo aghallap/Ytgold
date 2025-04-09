@@ -5,15 +5,15 @@
     "update_version": "v14",
     "com.gold.android.youtube": "https://www.abu2rab.com/2024/03/yt-gold-ali.html",
     "update_message": "
-<p>Update VØªØ­Ø¯ÙŠØ« 14</p>
-<li>تم تحديث القاعدة إلى الإصدار 19.30.39</li>
+<p>Update VØªØ­Ø¯ÙŠØ« 15</p>
+<li>تم تحديث القاعدة إلى الإصدار 20.06.42</li>
 <li>تصميم جديد للإعدادات الذهبية وأيضاً لصفحة الفيديو</li>
 <li>تم إصلاح مشكلة عدم القدرة على تشغيل مقاطع الفيديو</li>
 <li>تم إصلاح مشكلة تنزيل الفيديوهات</li>
 <li>تم إصلاح جميع مشاكل الأعطال</li>
 <li>مزيد من الإصلاحات والتحسينات الأخرى</li>
 
-<li>Updated the base to version 19.30.39</li>
+<li>Updated the base to version 20.06.42</li>
 <li>New design for the Gold Settings and also for the video page</li>
 <li>Fixed Problem of not being able to play videos</li>
 <li>Fixed Problem downloading videos</li>
