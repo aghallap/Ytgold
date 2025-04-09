@@ -2,7 +2,7 @@
   "Gold": {
     "update_code": "7",
     "reminder_time": "3",
-    "update_version": "v15",
+    "update_version": "v14",
     "com.gold.android.youtube": "https://www.abu2rab.com/2024/03/yt-gold-ali.html",
     "update_message": "
 <p>Update VØªØ­Ø¯ÙŠØ« 15</p>
